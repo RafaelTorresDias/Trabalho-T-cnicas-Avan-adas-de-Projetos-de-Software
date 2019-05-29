@@ -5,4 +5,4 @@
 #### Trabalho com bibliotecas específicas, arrays e operações matemáticas;
 #### Construção de gráficos e modelos matemáticos.
 
-[Link de Aceesso ao enunciado](https://drive.google.com/open?id=1Y26zrEEujdfHuHv49Ycfm2VowEnQUU0B)
+[Link de Acesso ao enunciado, dados e código final](https://drive.google.com/open?id=1Y26zrEEujdfHuHv49Ycfm2VowEnQUU0B)
