@@ -5,4 +5,4 @@
 #### Trabalho com bibliotecas específicas, arrays e operações matemáticas;
 #### Construção de gráficos e modelos matemáticos.
 
-[Link de Aceesso opção_01](https://www.includehelp.com/ml-ai/root-mean-square%20error-rmse.aspx)
+[Link de Aceesso ao enunciado](https://drive.google.com/open?id=1Y26zrEEujdfHuHv49Ycfm2VowEnQUU0B)
